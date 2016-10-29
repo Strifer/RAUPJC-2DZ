@@ -1,0 +1,6 @@
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak345\bin\Debug\Zadatak345.exe.config
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak345\bin\Debug\Zadatak345.exe
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak345\bin\Debug\Zadatak345.pdb
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak345\obj\Debug\Zadatak345.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak345\obj\Debug\Zadatak345.exe
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak345\obj\Debug\Zadatak345.pdb
