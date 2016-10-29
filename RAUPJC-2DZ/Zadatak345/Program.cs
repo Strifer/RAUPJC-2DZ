@@ -10,6 +10,8 @@ namespace Zadatak345
     {
         static void Main(string[] args)
         {
+
+            //ZADATAK 3
             int[] integers = new[] { 1, 2, 2, 2, 3, 3, 4, 5 };
             string[] results = integers.GroupBy(i => i).Select(i => "Broj "+i.Key+" ponavlja se "+i.Count()+" puta").ToArray();
             
@@ -18,9 +20,15 @@ namespace Zadatak345
                 Console.WriteLine("strings[{0}] = {1}", i, results[i]);
             }
 
+            //ZADATAK 4
+            Console.WriteLine("Example1()=" + Example1()); //nadjačan operator == u Student
+            Console.WriteLine("Example2()=" + Example2()); //implementiran GetHashCode u Student
 
+
+
+
+            //ZADATAK 5
             var universities = GetAllCroatianUniversities();
-
             Student[] allCroatianStudents = universities.SelectMany(u => u.Students).Distinct().ToArray();
 
             Student[] croatianStudentsOnMultipleUniversities = universities.SelectMany(u => u.Students)
@@ -35,8 +43,7 @@ namespace Zadatak345
                                                                    .ToArray();
 
 
-            Console.WriteLine("Example1()=" + Example1());
-            Console.WriteLine("Example2()=" + Example2());
+
 
             Console.WriteLine("Svi studenti:");
             foreach (var su in allCroatianStudents)
