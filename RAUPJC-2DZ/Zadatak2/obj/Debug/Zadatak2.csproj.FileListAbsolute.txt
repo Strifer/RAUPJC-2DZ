@@ -1,0 +1,8 @@
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak2\bin\Debug\Zadatak2.dll
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak2\bin\Debug\Zadatak2.pdb
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak2\bin\Debug\Zadatak1.dll
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak2\bin\Debug\Zadatak1.pdb
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak2\obj\Debug\Zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak2\obj\Debug\Zadatak2.dll
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak2\obj\Debug\Zadatak2.pdb

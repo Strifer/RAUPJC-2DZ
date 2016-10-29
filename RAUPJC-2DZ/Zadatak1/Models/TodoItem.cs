@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Zadatak1.Models
 {
@@ -25,6 +26,30 @@ namespace Zadatak1.Models
                 IsCompleted = true;
                 DateCompleted = DateTime.Now;
             }
+        }
+
+       public override bool Equals(object obj)
+       {
+            if (obj.GetType() != GetType())
+            {
+                return false;
+            }
+
+            TodoItem other = (TodoItem) obj;
+
+            return Text == other.Text;
+       }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Title:").AppendLine(Text);
+            sb.Append("Created:").AppendLine(DateCreated.ToString());
+            if (IsCompleted)
+            {
+                sb.AppendLine("Completed:").AppendLine(DateCompleted.ToString());
+            }
+            return sb.ToString();
         }
 
     }

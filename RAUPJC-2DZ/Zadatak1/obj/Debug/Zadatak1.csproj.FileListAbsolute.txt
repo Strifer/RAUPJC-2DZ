@@ -1,0 +1,4 @@
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak1\bin\Debug\Zadatak1.dll
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak1\obj\Debug\Zadatak1.dll
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak1\obj\Debug\Zadatak1.pdb
