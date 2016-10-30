@@ -1,0 +1,5 @@
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak6\bin\Debug\Zadatak6.exe.config
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak6\bin\Debug\Zadatak6.exe
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak6\bin\Debug\Zadatak6.pdb
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak6\obj\Debug\Zadatak6.exe
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak6\obj\Debug\Zadatak6.pdb
