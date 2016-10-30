@@ -40,6 +40,11 @@ namespace Zadatak1.Models
             return Text == other.Text;
        }
 
+        public override int GetHashCode()
+        {
+            return Id.GetHashCode();
+        }
+
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
