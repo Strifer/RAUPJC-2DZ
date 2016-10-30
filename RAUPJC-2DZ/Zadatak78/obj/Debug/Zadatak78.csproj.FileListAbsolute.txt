@@ -1,0 +1,6 @@
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak78\bin\Debug\Zadatak78.exe.config
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak78\obj\Debug\Zadatak78.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak78\bin\Debug\Zadatak78.exe
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak78\bin\Debug\Zadatak78.pdb
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak78\obj\Debug\Zadatak78.exe
+C:\Users\Filip\Documents\FER\C#\Labosi\RAUPJC-2DZ\RAUPJC-2DZ\RAUPJC-2DZ\Zadatak78\obj\Debug\Zadatak78.pdb
